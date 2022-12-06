@@ -2,9 +2,10 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "obsidian-extensions",
   "title": "Obsidian extensions",
-  "description": "",
+  "description": "obsidian exnteions",
   "icon": "command-icon.png",
-  "author": "ejohane",
+  "author": "erik-johansson",
+  "owner": "erik-johansson",
   "license": "MIT",
   "commands": [
     {
